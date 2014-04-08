@@ -6,7 +6,7 @@
              tools:context=".MainActivity"
              tools:ignore="MergeRootFrame">
 
-    <VerticalPager.VerticalViewPager
+    <com.luxsyp.ParallaxViewPager.VerticalPager.VerticalViewPager
             android:id="@+id/verticalviewpager"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>

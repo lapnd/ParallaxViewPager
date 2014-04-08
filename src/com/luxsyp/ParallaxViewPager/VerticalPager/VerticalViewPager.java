@@ -1,4 +1,4 @@
-package VerticalPager;
+package com.luxsyp.ParallaxViewPager.VerticalPager;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -7,42 +7,21 @@ import android.database.DataSetObserver;
 import android.graphics.Canvas;
 import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
-import android.os.Build;
-import android.os.Bundle;
-import android.os.Parcel;
-import android.os.Parcelable;
-import android.os.SystemClock;
+import android.os.*;
 import android.support.v4.os.ParcelableCompat;
 import android.support.v4.os.ParcelableCompatCreatorCallbacks;
-import android.support.v4.view.AccessibilityDelegateCompat;
-import android.support.v4.view.KeyEventCompat;
-import android.support.v4.view.MotionEventCompat;
-import android.support.v4.view.PagerAdapter;
-import android.support.v4.view.VelocityTrackerCompat;
-import android.support.v4.view.ViewCompat;
-import android.support.v4.view.ViewConfigurationCompat;
-import android.support.v4.view.ViewPager;
+import android.support.v4.view.*;
 import android.support.v4.view.accessibility.AccessibilityEventCompat;
 import android.support.v4.view.accessibility.AccessibilityNodeInfoCompat;
 import android.support.v4.view.accessibility.AccessibilityRecordCompat;
 import android.support.v4.widget.EdgeEffectCompat;
 import android.util.AttributeSet;
 import android.util.Log;
-import android.view.FocusFinder;
-import android.view.Gravity;
-import android.view.KeyEvent;
-import android.view.MotionEvent;
-import android.view.SoundEffectConstants;
-import android.view.VelocityTracker;
-import android.view.View;
-import android.view.ViewConfiguration;
-import android.view.ViewGroup;
-import android.view.ViewParent;
+import android.view.*;
 import android.view.accessibility.AccessibilityEvent;
 import android.view.animation.Interpolator;
 import android.widget.Scroller;
-import com.luxsyp.DirectionalPager.Activity.HomeActivity;
-import com.luxsyp.DirectionalPager.Adapter.VerticalPagerAdapter;
+import com.luxsyp.ParallaxViewPager.Adapter.VerticalPagerAdapter;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;
@@ -600,7 +579,7 @@ public class VerticalViewPager extends ViewGroup {
      *
      * @param marginPixels Distance between adjacent pages in pixels
      * @see #getPageMargin()
-     * @see #setPageMarginDrawable(Drawable)
+     * @see #setPageMarginDrawable(android.graphics.drawable.Drawable)
      * @see #setPageMarginDrawable(int)
      */
     public void setPageMargin(int marginPixels) {
@@ -668,7 +647,7 @@ public class VerticalViewPager extends ViewGroup {
     }
 
     /**
-     * Like {@link View#scrollBy}, but scroll smoothly instead of immediately.
+     * Like {@link android.view.View#scrollBy}, but scroll smoothly instead of immediately.
      *
      * @param x the number of pixels to scroll by on the X axis
      * @param y the number of pixels to scroll by on the Y axis
@@ -678,7 +657,7 @@ public class VerticalViewPager extends ViewGroup {
     }
 
     /**
-     * Like {@link View#scrollBy}, but scroll smoothly instead of immediately.
+     * Like {@link android.view.View#scrollBy}, but scroll smoothly instead of immediately.
      *
      * @param x        the number of pixels to scroll by on the X axis
      * @param y        the number of pixels to scroll by on the Y axis
@@ -1132,7 +1111,7 @@ public class VerticalViewPager extends ViewGroup {
                     + " position=" + position + "}";
         }
 
-        public static final Parcelable.Creator<SavedState> CREATOR
+        public static final Creator<SavedState> CREATOR
                 = ParcelableCompat.newCreator(new ParcelableCompatCreatorCallbacks<SavedState>() {
             @Override
             public SavedState createFromParcel(Parcel in, ClassLoader loader) {
@@ -2003,7 +1982,7 @@ public class VerticalViewPager extends ViewGroup {
 
     /**
      * @return Info about the page at the current scroll position.
-     * This can be synthetic for a missing middle page; the 'object' field can be null.
+     *         This can be synthetic for a missing middle page; the 'object' field can be null.
      */
     private ItemInfo infoForCurrentScrollPosition() {
         final int height = getClientHeight();

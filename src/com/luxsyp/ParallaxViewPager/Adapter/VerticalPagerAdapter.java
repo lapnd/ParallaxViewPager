@@ -1,11 +1,9 @@
-package com.luxsyp.DirectionalPager.Adapter;
+package com.luxsyp.ParallaxViewPager.Adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import com.luxsyp.DirectionalPager.Fragment.VerticalFragment;
-
-import java.util.Locale;
+import com.luxsyp.ParallaxViewPager.Fragment.VerticalFragment;
 
 /**
  * Created with IntelliJ IDEA.
