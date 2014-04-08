@@ -24,13 +24,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3df77d58-a49f-4b1a-8ea3-ab65514999de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/half_size_fragment_layout.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/HorizontalPagerAdapter.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/HorizontalPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" afterPath="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" />
     </list>
     <ignored path="ParallaxViewPager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,7 +39,8 @@
     <file path="/VerticalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969180711" ignored="false" />
     <file path="/VerticalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969501732" ignored="false" />
     <file path="/ParallaxFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969763753" ignored="false" />
-    <file path="/HorizontalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969792958" ignored="false" />
+    <file path="/HorizontalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396970062968" ignored="false" />
+    <file path="/horizontal_fragment_layout.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969999904" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +122,7 @@
       <file leaf-file-name="HalfSizedFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="51" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+            <state line="27" column="45" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,26 +130,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="half_size_fragment_layout.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/half_size_fragment_layout.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="HorizontalFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="65" selection-start="281" selection-end="281" vertical-scroll-proportion="-1.4423077">
-              <folding />
+            <state line="48" column="26" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.6703297">
+              <folding>
+                <element signature="e#1255#1436#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
+                <element signature="e#1791#1792#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HorizontalFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java">
+      <file leaf-file-name="horizontal_fragment_layout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="67" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#1255#1436#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-              </folding>
+            <state line="24" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="-5.173077">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -174,10 +173,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParallaxFragment.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ParallaxFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.78054297">
+            <state line="28" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -217,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java" />
+        <option value="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java" />
       </list>
     </option>
@@ -711,15 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="51" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/HorizontalPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="45" selection-start="873" selection-end="873" vertical-scroll-proportion="0.0">
@@ -734,13 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="50" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="30" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
@@ -748,20 +732,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="67" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
+        <state line="28" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="50" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="45" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#1255#1436#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.78054297">
+        <state line="24" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="-5.173077">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="26" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.6703297">
+          <folding>
+            <element signature="e#1255#1436#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="e#1791#1792#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
