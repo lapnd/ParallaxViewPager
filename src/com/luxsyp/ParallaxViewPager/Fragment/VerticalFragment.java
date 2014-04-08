@@ -81,7 +81,6 @@ public class VerticalFragment extends Fragment implements ViewPager.OnPageChange
         // Parralax stuff
         if (position == _viewPager.getCurrentItem() && offset > 0) // Move right
         {
-            // _debugTextView.setText("RIGHT \nCurrent[" + _viewPager.getCurrentItem() + "] Position[" + position + "] \nOffset[" + offset + "] offsetPixels[" + offsetPixels + "]");
             currentFrag.applyParallaxOnItems(false, offset, offsetPixels, 0);
             if (rightFrag != null)
                 rightFrag.applyParallaxOnItems(false, offset, offsetPixels, DisplayUtil.getInstance().getScreenWidth());
@@ -103,27 +102,10 @@ public class VerticalFragment extends Fragment implements ViewPager.OnPageChange
         {
             case ViewPager.SCROLL_STATE_IDLE:
                 if (currentFrag != null)
-                {
                     currentFrag.applyParallaxOnItems(false, 0, 0, 0);
-                    //currentFrag.setAlpha((float) 0.5);
-                }
-                /*
-                if (leftFrag != null)
-                    leftFrag.setAlpha((float) 0.5);
-                if (rightFrag != null)
-                    rightFrag.setAlpha((float) 0.5);
-                */
                 break;
 
             case ViewPager.SCROLL_STATE_DRAGGING:
-                /*
-                if (currentFrag != null)
-                    currentFrag.setAlpha((float) 1.0); //on move
-                if (leftFrag != null)
-                    leftFrag.setAlpha((float) 1.0);
-                if (rightFrag != null)
-                    rightFrag.setAlpha((float) 1.0);
-                */
                 break;
         }
 
