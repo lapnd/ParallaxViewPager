@@ -9,6 +9,8 @@ You can decide to apply (or not) a speed on each element of your view.
 It will be triger when you swipe from a fragment to another (horizontaly).
 
 
+ps : VerticalViewPager is only a copy paste of : https://github.com/LambergaR/VerticalViewPager/
+
 ## License
 
 "THE BEER-WARE LICENSE" (Revision 42):
