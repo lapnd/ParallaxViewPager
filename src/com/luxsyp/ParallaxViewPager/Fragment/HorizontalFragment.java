@@ -31,12 +31,16 @@ public class HorizontalFragment extends ParallaxFragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         String message = getArguments().getString(EXTRA_MESSAGE);
         View v = inflater.inflate(R.layout.horizontal_fragment_layout, container, false);
-        TextView messageTextView = (TextView) v.findViewById(R.id.textView);
+        final TextView messageTextView = (TextView) v.findViewById(R.id.textView);
         messageTextView.setText(message);
 
         // register view for Parralax
-        addViewToParallax(messageTextView, 2.5f);
-
+        messageTextView.post(new Runnable() {
+            @Override
+            public void run() {
+               addViewToParallax(messageTextView, (int) messageTextView.getX(), 2.5f);
+            }
+        });
         return v;
     }
 }

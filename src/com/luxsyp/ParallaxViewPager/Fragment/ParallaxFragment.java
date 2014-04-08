@@ -19,21 +19,15 @@ public class ParallaxFragment extends Fragment {
 
     private HashMap<View, ParallaxInfo> _mapView = null;
 
-    public void addViewToParallax(final View view, float speed)
+    public void addViewToParallax(final View view, int xPosition, float speed)
     {
         if (_mapView == null)
             _mapView = new HashMap<View, ParallaxInfo>();
 
         if (!_mapView.containsKey(view))
         {
-            final ParallaxInfo info = new ParallaxInfo();
-            view.post(new Runnable() {
-                @Override
-                public void run() {
-                    info.xPosition = (int) view.getX();
-                    info.yPosition = (int) view.getY();
-                }
-            });
+            ParallaxInfo info = new ParallaxInfo();
+            info.xPosition = xPosition;
             info.speed = speed;
             _mapView.put(view, info);
         }
@@ -41,7 +35,6 @@ public class ParallaxFragment extends Fragment {
 
     private class ParallaxInfo {
         public      int     xPosition;
-        public      int     yPosition;
         public      float   speed;
     }
 
