@@ -7,7 +7,6 @@ import com.luxsyp.ParallaxViewPager.Adapter.VerticalPagerAdapter;
 import com.luxsyp.ParallaxViewPager.Util.DisplayUtil;
 import com.luxsyp.ParallaxViewPager.VerticalPager.VerticalViewPager;
 
-
 public class HomeActivity extends FragmentActivity {
 
     @Override
