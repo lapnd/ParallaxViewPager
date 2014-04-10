@@ -27,31 +27,42 @@ public class HorizontalFragment extends ParallaxFragment {
 
     }
 
+    private TextView textView;
+    private TextView textView2;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         String message = getArguments().getString(EXTRA_MESSAGE);
         View v = inflater.inflate(R.layout.horizontal_fragment_layout, container, false);
 
         // register view for Parralax
-        final TextView messageTextView = (TextView) v.findViewById(R.id.textView);
-        messageTextView.setText(message);
-        messageTextView.post(new Runnable() {
-            @Override
-            public void run() {
-               addViewToParallax(messageTextView, (int) messageTextView.getX(), 1.5f);
-            }
-        });
+        textView = (TextView) v.findViewById(R.id.textView);
+        textView.setText(message);
 
         // register view for Parralax
-        final TextView textView2 = (TextView) v.findViewById(R.id.textView2);
+        textView2 = (TextView) v.findViewById(R.id.textView2);
         textView2.setText("To infinite and beyond");
-        textView2.post(new Runnable() {
-            @Override
-            public void run() {
-                addViewToParallax(textView2, (int) textView2.getX(), 0.5f);
-            }
-        });
 
+        registerViewForParallax();
         return v;
+    }
+
+    private void registerViewForParallax()
+    {
+        if (textView != null)
+            textView.post(new Runnable() {
+                @Override
+                public void run() {
+                    addViewToParallax(textView, (int) textView.getX(), 1.5f);
+                }
+            });
+
+        if (textView2 != null)
+            textView2.post(new Runnable() {
+                @Override
+                public void run() {
+                    addViewToParallax(textView2, (int) textView2.getX(), 0.5f);
+                }
+            });
     }
 }

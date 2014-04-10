@@ -22,25 +22,63 @@
       </GlobalState>
     </option>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3df77d58-a49f-4b1a-8ea3-ab65514999de" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/HorizontalPagerAdapter.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/HorizontalPagerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java" afterPath="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" afterPath="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ParallaxViewPager.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969031994" ignored="false" />
-    <file path="/fragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396965250213" ignored="false" />
+    <file path="/Dummy.txt" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397123867359" ignored="false" />
+    <file path="/fragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032912694" ignored="false" />
     <file path="/HalfSizedFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969101014" ignored="false" />
     <file path="/HorizontalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396968883158" ignored="false" />
     <file path="/half_size_fragment_layout.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969084415" ignored="false" />
-    <file path="/VerticalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969180711" ignored="false" />
+    <file path="/VerticalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397031588911" ignored="false" />
     <file path="/VerticalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969501732" ignored="false" />
-    <file path="/ParallaxFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969763753" ignored="false" />
-    <file path="/HorizontalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396970062968" ignored="false" />
+    <file path="/ParallaxFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397031523495" ignored="false" />
+    <file path="/HorizontalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397031657538" ignored="false" />
     <file path="/horizontal_fragment_layout.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1396969999904" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values/strings.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032529275" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values/dimens.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/menu/main.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values-v11/styles.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/pom.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values-v14/styles.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values-sw720dp-land/dimens.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values-sw600dp/dimens.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/values/styles.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032491068" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/res/layout/activity_main.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032812174" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/AndroidManifest.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032855410" ignored="false" />
+    <file path="/strings.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032529432" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/HorizontalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/HorizontalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/VerticalViewPager.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/ParallaxFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/HalfSizedFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/VerticalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/HomeActivity.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/DisplayUtil.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/VerticalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032569402" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Activity/HomeActivity.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032846991" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Fragment/ParallaxFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032602111" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Util/DisplayUtil.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032601242" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Adapter/VerticalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032601242" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/VerticalPager/VerticalViewPager.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032741112" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Fragment/HalfSizedFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032601242" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Fragment/VerticalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032601242" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Adapter/HorizontalPagerAdapter.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032601242" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/src/main/java/com/gofindit/v2/Fragment/HorizontalFragment.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032601242" ignored="false" />
+    <file path="/activity_main.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032811024" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032854388" ignored="false" />
+    <file path="$PROJECT_DIR$/../blackPearl/target/generated-sources/r/com/gofindit/v2/R.java" changelist="3df77d58-a49f-4b1a-8ea3-ab65514999de" time="1397032857228" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,10 +148,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerticalFragment.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="VerticalFragment.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="50" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
+            <state line="76" column="5" selection-start="2934" selection-end="2934" vertical-scroll-proportion="0.42553192">
               <folding />
             </state>
           </provider>
@@ -122,23 +160,29 @@
       <file leaf-file-name="HalfSizedFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="45" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="31" column="25" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HorizontalFragment.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main_activity_layout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main_activity_layout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="588" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HorizontalFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="26" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.6703297">
-              <folding>
-                <element signature="e#1255#1436#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1791#1792#0" expanded="true" />
-              </folding>
+            <state line="48" column="0" selection-start="1476" selection-end="1476" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,7 +193,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="-5.173077">
+            <state line="24" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,7 +211,7 @@
       <file leaf-file-name="VerticalPagerAdapter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="30" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
+            <state line="34" column="47" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,16 +220,16 @@
       <file leaf-file-name="ParallaxFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
+            <state line="37" column="28" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerticalViewPager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/VerticalPager/VerticalViewPager.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+            <state line="6" column="39" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -213,16 +257,17 @@
         <option value="$PROJECT_DIR$/res/layout/half_size_fragment_layout.xml" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/HorizontalPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java" />
+        <option value="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java" />
-        <option value="$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml" />
         <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
+    <option name="x" value="-10" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="874" />
@@ -253,7 +298,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,32 +333,6 @@
               <option name="myItemId" value="ParallaxViewPager" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VerticalPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -348,50 +366,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Activity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxViewPager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -406,33 +380,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="DEBUGGABLE_DEVICE" value="42f738059619af11" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="DEBUGGABLE_PROCESS" value="com.luxsyp.ParallaxViewPager" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Android Application.ParallaxViewPager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -467,6 +442,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -492,19 +480,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -593,33 +568,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="-10" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6710875" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6710875" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6710875" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.75198936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49867374" sideWeight="0.48350072" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4973545" sideWeight="0.5164993" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.50132626" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6710875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6710875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.50132626" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -687,18 +662,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/VerticalPager/VerticalViewPager.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Activity/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+        <state line="9" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="38" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../sdk/sources/android-18/android/widget/RelativeLayout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="13" selection-start="3411" selection-end="3459" vertical-scroll-proportion="0.33186814">
-          <folding />
-        </state>
+        <state line="84" column="13" selection-start="3411" selection-end="3459" vertical-scroll-proportion="0.33186814" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/half_size_fragment_layout.xml">
@@ -718,6 +705,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Activity/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
@@ -725,54 +722,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/VerticalPager/VerticalViewPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1329" column="0" selection-start="50257" selection-end="50257" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Adapter/VerticalPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="30" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="51" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="50" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
+        <state line="34" column="47" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HalfSizedFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="45" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="31" column="25" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/horizontal_fragment_layout.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/main_activity_layout.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="42" selection-start="948" selection-end="948" vertical-scroll-proportion="-5.173077">
+        <state line="0" column="0" selection-start="0" selection-end="588" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/HorizontalFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="26" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.6703297">
-          <folding>
-            <element signature="e#1255#1436#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1791#1792#0" expanded="true" />
-          </folding>
+        <state line="48" column="0" selection-start="1476" selection-end="1476" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/ParallaxFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luxsyp/ParallaxViewPager/Fragment/VerticalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="5" selection-start="2934" selection-end="2934" vertical-scroll-proportion="0.42553192">
+          <folding />
         </state>
       </provider>
     </entry>

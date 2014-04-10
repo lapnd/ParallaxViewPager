@@ -14,7 +14,7 @@ import com.luxsyp.ParallaxViewPager.Fragment.VerticalFragment;
  * To change this template use File | Settings | File Templates.
  */
 public class VerticalPagerAdapter extends FragmentPagerAdapter {
-    private final static int    NB_FRAGMENT= 4;
+    private final static int    NB_FRAGMENT= 5;
 
     public VerticalPagerAdapter(FragmentManager fm) {
         super(fm);

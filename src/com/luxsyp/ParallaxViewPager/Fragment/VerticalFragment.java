@@ -64,15 +64,16 @@ public class VerticalFragment extends Fragment implements ViewPager.OnPageChange
     private void setFragments()
     {
         int current = _viewPager.getCurrentItem();
-        if (_viewPager.getCurrentItem() == 0)
+        if (current == 0)
             leftFrag = null;
         else
-            leftFrag = (ParallaxFragment) _pageAdapter.getItem(current - 1);
+            leftFrag = (ParallaxFragment) getChildFragmentManager().getFragments().get(current - 1);
         if ((_viewPager.getCurrentItem() + 1) == _pageAdapter.getCount())
             rightFrag = null;
-        else
-            rightFrag = (ParallaxFragment) _pageAdapter.getItem(current + 1);
-        currentFrag = (ParallaxFragment) _pageAdapter.getItem(current);
+        else if (getChildFragmentManager().getFragments().size() > current + 1)
+            rightFrag = (ParallaxFragment) getChildFragmentManager().getFragments().get(current + 1);
+        if (getChildFragmentManager().getFragments().size() > current)
+            currentFrag = (ParallaxFragment) getChildFragmentManager().getFragments().get(current);
     }
 
     @Override

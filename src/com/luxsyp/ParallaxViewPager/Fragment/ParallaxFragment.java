@@ -33,6 +33,12 @@ public class ParallaxFragment extends Fragment {
         }
     }
 
+    public void resetParallaxViews()
+    {
+        if (_mapView != null)
+            _mapView.clear();
+    }
+
     private class ParallaxInfo {
         public      int     xPosition;
         public      float   speed;
@@ -79,4 +85,5 @@ public class ParallaxFragment extends Fragment {
             }
         }
     }
+
 }
